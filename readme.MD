@@ -12,4 +12,4 @@ O objetivo final foi atingido.
 
 O carregamento dos arquivos foi todo feito via linha de comando utilizando o Git Bash.
 
-[O resultado final pode ser visto aqui](https://andreviapiana.github.io/gitfav/)
+[O resultado final pode ser visto aqui](https://andreviapiana.github.io/Calculadora-IMC/)
